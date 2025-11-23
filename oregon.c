@@ -1,7 +1,21 @@
 /*
- * Oregon Trail Simulation (1847)
- * Main game implementation
- * Original BASIC programming by Bill Heinemann - 1971
+ * Program Name: OregonTrail
+ * Program Release Year: 2025
+ * Program Author: Steven S.
+ * Program Link: https://github.com/BitEU/OregonTrail
+ *
+ * Original Name: The Oregon Trail
+ * Original Release Year: 1971
+ * Original Author: Don Rawitsch, Bill Heinemann, and Paul Dillenberger
+ * Original Link: N/A, but a good article exists here https://www.bbc.com/future/article/20241219-the-oregon-trail-how-a-50-year-old-video-game-defined-america
+ * Original System: HP 2100
+ * 
+ * Rewrite Name: oregon-trail
+ * Rewrite Release Year: 2024
+ * Rewrite Author: Don Rawitsch, clintmoyer, Beguiled, and NicolaSmaniotto
+ * Rewrite Link: https://github.com/clintmoyer/oregon-trail
+ *
+ * Major changes from rewrite: Ported to C and added Windows Console/UNIVAC 1219 support
  */
 
 #include "oregon.h"
